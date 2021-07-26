@@ -1,0 +1,29 @@
+{
+  "files": {
+    "main.css": "./static/css/main.d3db6bd5.chunk.css",
+    "main.js": "./static/js/main.c31f4a79.chunk.js",
+    "main.js.map": "./static/js/main.c31f4a79.chunk.js.map",
+    "runtime-main.js": "./static/js/runtime-main.ed48a7f6.js",
+    "runtime-main.js.map": "./static/js/runtime-main.ed48a7f6.js.map",
+    "static/css/2.e46aed11.chunk.css": "./static/css/2.e46aed11.chunk.css",
+    "static/js/2.98b7cb8e.chunk.js": "./static/js/2.98b7cb8e.chunk.js",
+    "static/js/2.98b7cb8e.chunk.js.map": "./static/js/2.98b7cb8e.chunk.js.map",
+    "index.html": "./index.html",
+    "precache-manifest.a2b0ab805ad5281516c74998a05dddda.js": "./precache-manifest.a2b0ab805ad5281516c74998a05dddda.js",
+    "service-worker.js": "./service-worker.js",
+    "static/css/2.e46aed11.chunk.css.map": "./static/css/2.e46aed11.chunk.css.map",
+    "static/css/main.d3db6bd5.chunk.css.map": "./static/css/main.d3db6bd5.chunk.css.map",
+    "static/js/2.98b7cb8e.chunk.js.LICENSE.txt": "./static/js/2.98b7cb8e.chunk.js.LICENSE.txt",
+    "static/media/simple-line-icons.css": "./static/media/Simple-Line-Icons.f33df365.eot",
+    "static/media/flag-icon.min.css": "./static/media/zw.8b885465.svg",
+    "static/media/react.scss": "./static/media/sabha-logo.9a143393.png",
+    "static/media/all.min.css": "./static/media/fa-solid-900.9ae050d1.woff2"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ed48a7f6.js",
+    "static/css/2.e46aed11.chunk.css",
+    "static/js/2.98b7cb8e.chunk.js",
+    "static/css/main.d3db6bd5.chunk.css",
+    "static/js/main.c31f4a79.chunk.js"
+  ]
+}
